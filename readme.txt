@@ -1,4 +1,4 @@
-# RD Add Palecolor
+# RD Add Palecolors
 
 Plugin Name: RD Add Palecolors
 Plugin URI: https://github.com/yat8823jp/rd-add-palecolors
