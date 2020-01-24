@@ -1,14 +1,14 @@
 # RD Add Palecolor
 
-Plugin Name: RD Add Palecolors
-Plugin URI: https://github.com/yat8823jp/add-palecolor
-Description: This plugin is add pale color palettes
-Author: YAT
-Version: 1.0.0
-Author URI: http://wp.yat-net.com
-Text Domain: add-palecolor
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Plugin Name: RD Add Palecolors
+- Plugin URI: https://github.com/yat8823jp/add-palecolor
+- Description: This plugin is add pale color palettes
+- Author: YAT
+- Version: 1.0.0
+- Author URI: http://wp.yat-net.com
+- Text Domain: add-palecolor
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
 
