@@ -1,7 +1,7 @@
  * @package add-palecolor
  * @version 1.0.0
  Plugin Name: Add Palecolor
-Plugin URI: 
+Plugin URI: https://github.com/yat8823jp/add-palecolor
 Description: This plugin is add pale color palette
 Author: YAT
 Version: 1.0.0
