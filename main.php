@@ -1,15 +1,16 @@
 <?php
 /**
- * @package red-add-palecolor
+ * @package rd-add-palecolors
  * @version 1.0.0
  */
 /*
-Plugin Name: RD Add Palecolor
+Plugin Name: RD Add Palecolors
 Plugin URI:
-Description: This plugin is add pale color palette
+Description: This plugin is add pale colors palette
 Author: YAT
 Version: 1.0.0
 Author URI: http://wp.yat-net.com
+Text Domain: add-palecolor
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -71,25 +72,65 @@ function rd_add_pale_color_pallet() {
 			'slug'  => 'dark-gray',
 			'color' => '#313131',
 				 ),
-		 array(
+		array(
+ 			'name'  => __( 'Pale yellow', 'add-palecolor' ),
+ 			'slug'  => 'pale-yellow',
+ 			'color' => '#FEFFDC',
+ 		),
+		array(
+			'name'  => __( 'Pale lime green', 'add-palecolor' ),
+			'slug'  => 'pale-lime-green',
+			'color' => '#F0F6DF',
+		),
+		array(
+			'name'  => __( 'Pale green', 'add-palecolor' ),
+			'slug'  => 'pale-green',
+			'color' => '#DAF1E4',
+		),
+		array(
+			'name'  => __( 'Pale soda green', 'add-palecolor' ),
+			'slug'  => 'pale-soda-green',
+			'color' => '#D9EFED',
+		),
+		array(
+			'name'  => __( 'Pale blue', 'add-palecolor' ),
+			'slug'  => 'pale-glue',
+			'color' => '#DBE7EF',
+		),
+		array(
+			'name'  => __( 'Pale mauve', 'add-palecolor' ),
+			'slug'  => 'pale-mauve',
+			'color' => '#DCE3F0',
+		),
+		array(
+			'name'  => __( 'Pale purple', 'add-palecolor' ),
+			'slug'  => 'pale-purple',
+			'color' => '#DFDEEE',
+		),
+		array(
+			'name'  => __( 'Pale purple pink', 'add-palecolor' ),
+			'slug'  => 'pale-purple-pink',
+			'color' => '#F1DAEE',
+		),
+		array(
+			'name'  => __( 'Pale light pink', 'add-palecolor' ),
+			'slug'  => 'pale-light-pink',
+			'color' => '#F5D9E8',
+		),
+		array(
+			'name'  => __( 'Pale pastel pink', 'add-palecolor' ),
+			'slug'  => 'pale-pastel-pink',
+			'color' => '#FED8E5',
+		),
+		array(
  			'name'  => __( 'Pale orange', 'add-palecolor' ),
  			'slug'  => 'pale-orange',
  			'color' => '#FFF2D8',
  		),
 		array(
-			'name'  => __( 'Pale green', 'add-palecolor' ),
-			'slug'  => 'pale-green',
-			'color' => '#E5FCC2',
-		),
-		array(
-			'name'  => __( 'Pale blue', 'add-palecolor' ),
-			'slug'  => 'pale-glue',
-			'color' => '#D5FFFC',
-		),
-		array(
-			'name'  => __( 'Pale light pink', 'add-palecolor' ),
-			'slug'  => 'pale-light-pink',
-			'color' => '#FFEBF7',
+			'name'  => __( 'Pale light orange', 'add-palecolor' ),
+			'slug'  => 'pale-light-orange',
+			'color' => '#FCF1D8',
 		),
 	) );
 }
