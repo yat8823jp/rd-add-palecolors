@@ -1,7 +1,7 @@
 # RD Add Palecolor
 
 - Plugin Name: RD Add Palecolors
-- Plugin URI: https://github.com/yat8823jp/add-palecolor
+- Plugin URI: https://github.com/yat8823jp/add-palecolors
 - Description: This plugin is add pale color palettes
 - Author: YAT
 - Version: 1.0.0
