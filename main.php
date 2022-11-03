@@ -1,14 +1,14 @@
 <?php
 /**
  * @package rd-add-palecolors
- * @version 1.1.0
+ * @version 1.1.1
  */
 /*
 Plugin Name: RD Add Palecolors
 Plugin URI: https://github.com/yat8823jp/rd-add-palecolors
 Description: This plugin is add pale colors palette
 Author: YAT
-Version: 1.1.0
+Version: 1.1.1
 Author URI: http://wp.yat-net.com
 Text Domain: add-palecolor
 License: GPLv2 or later

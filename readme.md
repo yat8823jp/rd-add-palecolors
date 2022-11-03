@@ -4,7 +4,7 @@
 - Plugin URI: https://github.com/yat8823jp/rd-add-palecolors
 - Description: This plugin is add pale color palettes
 - Author: YAT
-- Version: 1.1.0
+- Version: 1.1.1
 - Author URI: http://wp.yat-net.com
 - Text Domain: add-palecolor
 - License: GPLv2 or later
@@ -20,6 +20,9 @@ This plugin adds a pale color palette to the text color.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Changelog
+
+= 1.1.1 =
+* 2022-11-04 Test up WordPress 6.1.0
 
 = 1.1.0 =
 * 2020-01-24 Test up WordPress 6.0.0
