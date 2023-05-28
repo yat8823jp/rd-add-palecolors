@@ -14,6 +14,11 @@
 
 This plugin adds a pale color palette to the text color.
 
+== Screenshots ==
+
+1. Text or background color add pale theme.
+
+
 ## Installation
 
 1. Upload the the `rd-add-palecolor` folder to the `/wp-content/plugins/` directory.
