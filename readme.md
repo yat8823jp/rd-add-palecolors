@@ -14,9 +14,9 @@
 
 This plugin adds a pale color palette to the text color.
 
-== Screenshots ==
+## Screenshots
 
-1. Text or background color add pale theme.
+1. Text or background color add pale theme. [Screenshot1](https://github.com/yat8823jp/rd-add-palecolors/blob/master/screenshot-1.png)
 
 
 ## Installation
